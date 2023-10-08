@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "week-two-lab",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "UpdateVcpkgBaseline::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UpdateVcpkgBaseline-b8d834dff621f897968c.json",
+					"name" : "UpdateVcpkgBaseline",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise1-702f8a126765b55f54be.json",
+					"name" : "exercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise2-b70f432ee5a3949f02ba.json",
+					"name" : "exercise2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise3-5c7d3625e7aa2d7a08ff.json",
+					"name" : "exercise3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise4-e6fbce2e454f68abc2e5.json",
+					"name" : "exercise4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/benchikbayor/Desktop/onboarding-lab-2",
+		"source" : "/Users/benchikbayor/Desktop/onboarding-lab-2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

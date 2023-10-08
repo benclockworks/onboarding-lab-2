@@ -1,0 +1,7 @@
+/Users/benchikbayor/Desktop/onboarding-lab-2/CMakeFiles/UpdateVcpkgBaseline.dir
+/Users/benchikbayor/Desktop/onboarding-lab-2/CMakeFiles/exercise1.dir
+/Users/benchikbayor/Desktop/onboarding-lab-2/CMakeFiles/exercise2.dir
+/Users/benchikbayor/Desktop/onboarding-lab-2/CMakeFiles/exercise3.dir
+/Users/benchikbayor/Desktop/onboarding-lab-2/CMakeFiles/exercise4.dir
+/Users/benchikbayor/Desktop/onboarding-lab-2/CMakeFiles/edit_cache.dir
+/Users/benchikbayor/Desktop/onboarding-lab-2/CMakeFiles/rebuild_cache.dir

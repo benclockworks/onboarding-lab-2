@@ -1,0 +1,34 @@
+Package: vcpkg-cmake-config
+Version: 2022-02-06
+Port-Version: 1
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: 4e75773dcc88d2000f2d643ef577658ad91e166a449727a860016a9c3a57e377
+Status: install ok installed
+
+Package: vcpkg-cmake
+Version: 2023-05-04
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: 66688973a3f6029aa2df4bc8ee241ece5bc29ab99bcdce4a8962bcd256b22424
+Status: install ok installed
+
+Package: catch2
+Version: 3.4.0
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: 751a165f5988a354cb8c42fb7e6d79bc062ab81d35f6084838d0bf4549ae6ae1
+Description: A modern, header-only test framework for unit testing.
+Status: install ok installed
+
+Package: nyu-cmake
+Version: 1.1.3
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: arm64-osx
+Multi-Arch: same
+Maintainer: Vito Gamberini <vito@gamberini.email>
+Abi: ed5054a6e4f5b66afd990debce39cbfdcf63e2ce3bc5b5ac38fc737621f35922
+Description: NYU Processor Design's CMake function repo
+Status: install ok installed
+
